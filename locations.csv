@@ -1,0 +1,26 @@
+ID, Name, Type, X-coordinate, Y-coordinate 
+1, Maadi, Residential,31.25,29.96
+2, Nasr City, Mixed,31.34,30.06
+3, Downtown Cairo, Business,31.24,30.04
+4, New Cairo, Residential,31.47,30.03
+5, Heliopolis, Mixed,31.32,30.09
+6, Zamalek, Residential,31.22,30.06
+7, 6th October City, Mixed,30.98,29.93
+8, Giza, Mixed,31.21,29.99
+9, Mohandessin, Business,31.2,30.05
+10, Dokki, Mixed,31.21,30.03
+11, Shubra, Residential,31.24,30.11
+12, Helwan, Industrial,31.33,29.85
+13, New Administrative Capital, Government,31.8,30.02
+14, Al Rehab, Residential,31.49,30.06
+15, Sheikh Zayed, Residential,30.94,30.01
+F1, Cairo International Airport, Airport,31.41,30.11
+F2, Ramses Railway Station, Transit Hub,31.25,30.06
+F3, Cairo University, Education,31.21,30.03
+F4, Al-Azhar University, Education,31.26,30.05
+F5, Egyptian Museum, Tourism,31.23,30.05
+F6, Cairo International Stadium, Sports,31.3,30.07
+F7, Smart Village, Business,30.97,30.07
+F8, Cairo Festival City, Commercial,31.4,30.03
+F9, Qasr El Aini Hospital, Medical,31.23,30.03
+F10, Maadi Military Hospital, Medical,31.25,29.95
